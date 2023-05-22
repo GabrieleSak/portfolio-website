@@ -230,7 +230,7 @@ h4 {
 
 
 @media only screen and (max-width: 768px) {
-.navbar a {
+.navbar .nav-link {
     font-size: 1.7rem;
 }
 }
