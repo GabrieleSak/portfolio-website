@@ -229,8 +229,13 @@ h4 {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
 .navbar .nav-link {
     font-size: 1.7rem;
 }
+
+h1 {
+    font-size: 4rem;
+}
+
 }
